@@ -62,6 +62,8 @@ Make sure you have [Python 3](https://www.python.org/downloads/) and [JupyterLab
 
 In your terminal of choice, make a directory for the exercises and enter it.
 
+*Optionally:* Create a python venv as the workbooks use `%pip install` to install modules into the active environment.
+
 Clone the repository:
 ```sh
 git clone
