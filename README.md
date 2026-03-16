@@ -17,6 +17,8 @@ You can also view the slides from the session on GitHub pages (useful for copyin
 
 https://kiranjonathan-dev.github.io/ICSC26_Accelerating_Python_With_Numba_Lecture_Slides/
 
+This repository also includes the benchmarking notebook for the lecture examples. This can be viewed in the `./benchmarks` folder.
+
 ## Exercise Structure
 
 ### How The Exercises Are Split
