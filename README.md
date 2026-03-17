@@ -106,4 +106,8 @@ Click the `Cloud Symbol` which says `Download Project from git` when you hover o
 
 !["Clone a git repo on Swan"](./swan_clone_git.png)
 
+Paste in this repo's url:
+
+https://github.com/kiranjonathan-dev/ICSC26_Accelerating_Python_With_Numba_Exercise_Repo.git
+
 You should now have the repo cloned and open! Open the `exercises` folder and start from `Ex0_Setup_And_Introduction.ipynb`.
