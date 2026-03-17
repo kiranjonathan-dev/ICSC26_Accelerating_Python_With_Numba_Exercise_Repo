@@ -68,12 +68,12 @@ In your terminal of choice, make a directory for the exercises and enter it.
 
 Clone the repository:
 ```sh
-git clone
+git clone https://github.com/kiranjonathan-dev/ICSC26_Accelerating_Python_With_Numba_Exercise_Repo.git
 ```
 
 Enter the main directory
 ```sh
-cd 
+cd  ICSC26_Accelerating_Python_With_Numba_Exercise_Repo
 ```
 
 And start Jupyter Notebook:
